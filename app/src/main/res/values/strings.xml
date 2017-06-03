@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SensorLogger</string>
+    <string name="PREFS_NAME">my_pref</string>
+</resources>
